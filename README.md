@@ -97,9 +97,3 @@
 - ✉️ Email: hshong20@naver.com
 - 🌐 [GitHub](https://www.github.com/Daeol-hong)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/shhong20/)
-
----
-
-## ✨ Fun Fact
-
-AI won’t replace you... but someone using AI might! 🤖
